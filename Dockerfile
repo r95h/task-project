@@ -3,4 +3,4 @@ WORKDIR /ap
 COPY Task.java .
 RUN javac Task.java
 
-CMD java Task.java
+CMD java Task

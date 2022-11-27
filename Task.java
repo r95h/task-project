@@ -1,5 +1,5 @@
 
-public class DockerTask {
+public class Task {
 
     public static void main(String[] args) {
        
